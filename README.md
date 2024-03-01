@@ -9,3 +9,5 @@ Sort Products: Sort products by price or rating to easily identify the best deal
 Favorite Products: Mark products as favorites to create a personalized shopping list.
 API Integration: Fetches product data from APIs to ensure an extensive and up-to-date product catalog.
 Intuitive User Interface: User-friendly interface designed for easy navigation and enhanced user experience.
+
+<img width="427" alt="Screenshot 2024-03-01 at 1 14 47 PM" src="https://github.com/KeerthanaGIT-ios/ZStore/assets/121998019/158c129b-379c-40a4-9d0a-51dede982598">
